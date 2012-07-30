@@ -1,0 +1,16 @@
+E:\C# Programming\Flames\Flames\bin\Release\Flames.exe.config
+E:\C# Programming\Flames\Flames\bin\Release\Flames.exe
+E:\C# Programming\Flames\Flames\bin\Release\Flames.pdb
+E:\C# Programming\Flames\Flames\bin\Release\flames_class.dll
+E:\C# Programming\Flames\Flames\bin\Release\flames_class.pdb
+E:\C# Programming\Flames\Flames\obj\x86\Release\ResolveAssemblyReference.cache
+E:\C# Programming\Flames\Flames\obj\x86\Release\Flames.Form1.resources
+E:\C# Programming\Flames\Flames\obj\x86\Release\Flames.Properties.Resources.resources
+E:\C# Programming\Flames\Flames\obj\x86\Release\GenerateResource.read.1.tlog
+E:\C# Programming\Flames\Flames\obj\x86\Release\GenerateResource.write.1.tlog
+E:\C# Programming\Flames\Flames\obj\x86\Release\Flames.exe
+E:\C# Programming\Flames\Flames\obj\x86\Release\Flames.pdb
+E:\C# Programming\Flames\Flames\bin\Release\Flames.exe.manifest
+E:\C# Programming\Flames\Flames\bin\Release\Flames.application
+E:\C# Programming\Flames\Flames\obj\x86\Release\Flames.exe.manifest
+E:\C# Programming\Flames\Flames\obj\x86\Release\Flames.application

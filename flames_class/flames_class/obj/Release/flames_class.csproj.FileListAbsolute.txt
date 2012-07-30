@@ -1,0 +1,5 @@
+E:\C# Programming\Class Libraries\flames_class\flames_class\bin\Release\flames_class.dll
+E:\C# Programming\Class Libraries\flames_class\flames_class\bin\Release\flames_class.pdb
+E:\C# Programming\Class Libraries\flames_class\flames_class\obj\Release\ResolveAssemblyReference.cache
+E:\C# Programming\Class Libraries\flames_class\flames_class\obj\Release\flames_class.dll
+E:\C# Programming\Class Libraries\flames_class\flames_class\obj\Release\flames_class.pdb
